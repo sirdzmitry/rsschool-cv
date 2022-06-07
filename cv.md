@@ -1,6 +1,8 @@
 # First Name & Last Name
 Dzmitry Panou
 
+![avatar](https://raw.githubusercontent.com/sirdzmitry/rsschool-cv/gh-pages/avatar.png "avatar")
+
 # Contacts
 * +375445308807
 * aclhemistwot@gmail.com
